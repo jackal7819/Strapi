@@ -4,7 +4,7 @@ This project is a React application that showcases the implementation of submenu
 
 ## Project Link
 
-You can access the live version of the project by visiting [Project Link](https://example.com).
+You can access the live version of the project by visiting [Project Link](https://strapi-al51.onrender.com).
 
 ## Technologies Used
 
